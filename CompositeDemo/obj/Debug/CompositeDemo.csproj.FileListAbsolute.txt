@@ -1,0 +1,6 @@
+O:\VS2013\CompositeDemo\CompositeDemo\bin\Debug\CompositeDemo.exe.config
+O:\VS2013\CompositeDemo\CompositeDemo\bin\Debug\CompositeDemo.exe
+O:\VS2013\CompositeDemo\CompositeDemo\bin\Debug\CompositeDemo.pdb
+O:\VS2013\CompositeDemo\CompositeDemo\obj\Debug\CompositeDemo.csprojResolveAssemblyReference.cache
+O:\VS2013\CompositeDemo\CompositeDemo\obj\Debug\CompositeDemo.exe
+O:\VS2013\CompositeDemo\CompositeDemo\obj\Debug\CompositeDemo.pdb

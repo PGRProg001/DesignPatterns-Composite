@@ -1,0 +1,6 @@
+O:\VS2013\CompositeDemo\ComspositeDemoRefactored1\bin\Debug\ComspositeDemoRefactored1.exe.config
+O:\VS2013\CompositeDemo\ComspositeDemoRefactored1\bin\Debug\ComspositeDemoRefactored1.exe
+O:\VS2013\CompositeDemo\ComspositeDemoRefactored1\bin\Debug\ComspositeDemoRefactored1.pdb
+O:\VS2013\CompositeDemo\ComspositeDemoRefactored1\obj\Debug\ComspositeDemoRefactored1.exe
+O:\VS2013\CompositeDemo\ComspositeDemoRefactored1\obj\Debug\ComspositeDemoRefactored1.pdb
+O:\VS2013\CompositeDemo\ComspositeDemoRefactored1\obj\Debug\ComspositeDemoRefactored1.csprojResolveAssemblyReference.cache
